@@ -16,7 +16,8 @@ Start Microsoft Visual Studio .NET.
 Create a new project and choose a template.  
 Example: **Console Application**
 
-![Example](https://github.com/user-attachments/assets/4f354965-979f-416e-9157-32720a980078)
+![Example](https://github.com/user-attachments/assets/65e1cd4f-24a9-4733-890f-31b47bd1aff5)
+
 
 ---
 
@@ -25,12 +26,14 @@ After the project has been created, add a Web reference.
 
 - Go to the **Project** menu > **Add Service Reference** > click the **Advanced** button.
 
-![Add Service Reference](https://github.com/user-attachments/assets/f2c67165-8d27-473f-a3ea-a62b78a3efbf)
+![Add Service Reference](https://github.com/user-attachments/assets/1fa4f1d0-5c5f-416e-8c5c-31b3ba9b53e9)
+
 
 
 - Click the **Add Web Reference** button.
 
-![Add Web Reference](https://github.com/user-attachments/assets/5633a8ae-58e0-4e8d-815e-854bb97a3b4d)
+![Add Web Reference](https://github.com/user-attachments/assets/12ac35c3-83b3-479c-9c9e-3383d37b2ee6)
+
 
 
 ---
@@ -54,7 +57,8 @@ If security warnings are displayed, click **Yes** as many times as necessary to 
 ### **Step 7**
 After the summary is displayed, click the **Add Reference** button to generate the classes. When this process is complete, `com.netsuite.webservices` is listed under **Web References** in the **Solution Explorer**.
 
-![Web Reference in Solution Explorer](https://github.com/user-attachments/assets/e0ada1cd-e83a-45e1-ba10-5c606083a545)
+![Web Reference in Solution Explorer](https://github.com/user-attachments/assets/9e3b4091-5550-4e21-a4d3-adcee7ea0ba7)
+
 
 
 ---
