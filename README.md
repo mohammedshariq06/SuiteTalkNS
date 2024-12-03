@@ -57,7 +57,8 @@ If security warnings are displayed, click **Yes** as many times as necessary to 
 ### **Step 7**
 After the summary is displayed, click the **Add Reference** button to generate the classes. When this process is complete, `com.netsuite.webservices` is listed under **Web References** in the **Solution Explorer**.
 
-![Web Reference in Solution Explorer](https://github.com/user-attachments/assets/9e3b4091-5550-4e21-a4d3-adcee7ea0ba7)
+![Web Reference in Solution Explorer](https://github.com/user-attachments/assets/732281fd-6b13-4a0e-9b16-d74b18028203)
+
 
 
 
